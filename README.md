@@ -86,10 +86,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<h2
-color: purple;
- </h2>
- <h2> sl</h2>
+
 
 
 
