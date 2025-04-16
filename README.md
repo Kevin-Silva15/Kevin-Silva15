@@ -1,4 +1,5 @@
 <h1> Olá me chamo Kevin Silva!</h1>
+<h2>Futuro Full stack</h2>
 
  <h3>👨‍🎓 Sou estudante no curso de Análise e Desenvolvimento de Sistemas<br></h3>
  <h3>🔭 <b>Procurando meu primeiro estagio na area!<b><br></h3>
@@ -85,6 +86,9 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<h2
+color: purple;
+ </h2>
 
 
 
