@@ -1,9 +1,6 @@
-<h1> Olá me chamo Kevin Silva!<br>
+<h1> <b>Olá me chamo Kevin Silva!<b><br>
 Futuro Full stack! 💻
 </h1>
-![WebDeveloperMycrxnGIF](https://github.com/user-attachments/assets/f1f11196-521c-4597-90de-f8b0567ca1e8)
-
-
 
  <h3>👨‍🎓 Sou estudante no curso de Análise e Desenvolvimento de Sistemas<br></h3>
  <h3>🔭 <b>Procurando meu primeiro estagio na area!<b><br></h3>
