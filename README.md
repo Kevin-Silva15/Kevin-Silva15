@@ -7,7 +7,7 @@
   <p>Me relaciono com tecnologia a muito tempo e começei produzindo alguns sites simples para clientes, entrei na faculdade e me apaixonei mais ainda pela área, e agora estou me profissionalizando e estudando coisas novas!!!</p>
  <hr>
  ## Redes Sociais
-[Linkedin](https://www.linkedin.com/in/victor-cocchi/) e [Instagram](https://www.instagram.com/victorcocchi/)
+[Linkedin](https:www.linkedin.com/in/kevin-silva-ads) e [Instagram](https://www.instagram.com/kevin_8silva/)
 
 ## GitHub
 
