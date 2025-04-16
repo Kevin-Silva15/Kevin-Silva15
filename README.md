@@ -88,8 +88,8 @@
 />
 <h2
 color: purple;
- slall
  </h2>
+ <h2> sl</h2>
 
 
 
