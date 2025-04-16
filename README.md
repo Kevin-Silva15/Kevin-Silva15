@@ -1,5 +1,5 @@
 <h1> Olá me chamo Kevin Silva!</h1>
-<h2>Futuro Full stack</h2>
+<p>Futuro Full stack</p>
 
  <h3>👨‍🎓 Sou estudante no curso de Análise e Desenvolvimento de Sistemas<br></h3>
  <h3>🔭 <b>Procurando meu primeiro estagio na area!<b><br></h3>
