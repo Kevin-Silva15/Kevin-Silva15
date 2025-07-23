@@ -1,10 +1,11 @@
 <h1><b>Olá, me chamo Kevin Silva!</b><br>
 Futuro Full Stack! 💻
 </h1>
-
-<h3>👨‍🎓 Sou estudante do curso de Análise e Desenvolvimento de Sistemas<br></h3>
-<h3>🔭 <b>Buscando meu primeiro estágio na área!</b><br></h3>
-<h3>🌱 Atualmente estou desenvolvendo projetos para o meu portfólio com as linguagens que estudei. Após isso, focarei meus estudos em JAVA.<br></h3>
+<h3>🎓 Estudante de Análise e Desenvolvimento de Sistemas na FAM</h3>
+<h3>💻 Desenvolvedor em formação com foco em tecnologias web</h3>
+<h3>🌐 HTML | CSS | JavaScript | TypeScript | React | Node.js</h3> 
+<h3>📚 Atualmente estudando Java e aprofundando em React</h3> 
+<h3>🚀 Buscando minha primeira oportunidade de estágio na área de TI</h3> 
 
 <p>Me relaciono com tecnologia há muito tempo. Comecei produzindo alguns sites simples para clientes, entrei na faculdade e me apaixonei ainda mais pela área. Agora estou me profissionalizando e aprendendo coisas novas constantemente!</p>
 
@@ -72,6 +73,14 @@ Futuro Full Stack! 💻
     width="30px" 
     style="padding-right: 10px;" 
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
 
 <img 
